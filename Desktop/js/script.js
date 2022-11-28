@@ -1,9 +1,3 @@
-
-let kirillKatas8n = 1200, //budget 1200$
-    nazarHpxxph = 1000    //budget 1000$
-
-
-//appleStore
 const someProducts = { 
     iphone: {
         iphone8: 12000, 
@@ -54,25 +48,6 @@ if(nazarHpxxph > mcDonalds.drinks.cola || mcDonalds.drinks['fanta']){
 }else{
     console.log('Nazar hungry and he want drink')
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
